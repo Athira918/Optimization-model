@@ -27,6 +27,7 @@ This project demonstrated how Linear Programming can be applied to a real-world 
 Include additional constraints such as baking time and labor availability.
 Expand the model for more products like cupcakes, muffins, and pastries.
 Develop a user-friendly dashboard for bakery owners to input ingredient stock and receive optimal production plans automatically.
+![Image](https://github.com/user-attachments/assets/1719999b-526c-4be0-89d4-59cf81e91885)
 
 
 
